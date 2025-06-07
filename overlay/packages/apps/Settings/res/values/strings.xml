@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="xd_device_name_summary">Galaxy J5</string>
+    <string name="xd_chipset_type_summary">Qualcomm MSM8916 Snapdragon 410</string>
+    <string name="xd_gpu_summary">Adreno 306</string>
+    <string name="xd_camera_mp_summary">13 MP+5 MP</string>
+    <string name="xd_screen_type_summary">Super AMOLED 5.0 Screen</string>
+
+</resources>
